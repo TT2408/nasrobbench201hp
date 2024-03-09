@@ -24,11 +24,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4053292"
-     inkscape:cx="173.26901"
-     inkscape:cy="185.36581"
+     inkscape:zoom="5.0497775"
+     inkscape:cx="181.79019"
+     inkscape:cy="128.22347"
      inkscape:window-width="1728"
-     inkscape:window-height="954"
+     inkscape:window-height="958"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
@@ -280,7 +280,7 @@
      id="rect15"
      style="stroke-width:1.002;stroke-dasharray:none;fill:none" />
   <g
-     transform="translate(-6.7113218,10.784319)"
+     transform="translate(41.538238,-3.7681426)"
      id="g15"
      style="stroke-width:1.002;stroke-dasharray:none">
     <switch
@@ -327,7 +327,7 @@
      id="rect16"
      style="stroke-width:1.002;stroke-dasharray:none;fill:none" />
   <g
-     transform="translate(-5.7561366,16.391146)"
+     transform="translate(8.9132318,13.533477)"
      id="g16"
      style="stroke-width:1.002;stroke-dasharray:none">
     <switch
@@ -418,7 +418,7 @@
      id="rect18"
      style="fill:none" />
   <g
-     transform="translate(34.825842,-12.230791)"
+     transform="translate(34.825842,-5.497821)"
      id="g18">
     <switch
        id="switch18">
@@ -506,7 +506,7 @@
      id="rect20"
      style="fill:none" />
   <g
-     transform="translate(14.271468,20.656208)"
+     transform="translate(19.874426,14.920156)"
      id="g20">
     <switch
        id="switch20">
@@ -560,4 +560,73 @@
      cy="363.44049"
      rx="15.989677"
      ry="14.840988" />
+  <text
+     xml:space="preserve"
+     style="opacity:0.96;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+     x="90.03035"
+     y="40.88063"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="90.03035"
+       y="40.88063">#1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.96;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+     x="95.057762"
+     y="132.80763"
+     id="text1-2"><tspan
+       sodipodi:role="line"
+       id="tspan1-2"
+       x="95.057762"
+       y="132.80763"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3;stroke-dasharray:none">#2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.96;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+     x="162.90303"
+     y="82.713112"
+     id="text1-2-3"><tspan
+       sodipodi:role="line"
+       id="tspan1-2-9"
+       x="162.90303"
+       y="82.713112"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3;stroke-dasharray:none">#3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.96;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+     x="177.15034"
+     y="178.69687"
+     id="text1-2-3-2"><tspan
+       sodipodi:role="line"
+       id="tspan1-2-9-7"
+       x="177.15034"
+       y="178.69687"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3;stroke-dasharray:none">#4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.96;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+     x="281.6485"
+     y="56.773968"
+     id="text1-2-3-2-3"><tspan
+       sodipodi:role="line"
+       id="tspan1-2-9-7-6"
+       x="281.6485"
+       y="56.773968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3;stroke-dasharray:none">#5</tspan></text>
+  <g
+     id="g1"
+     transform="translate(105.35708,-194.58929)">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;opacity:0.96;fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       x="137.31201"
+       y="328.40286"
+       id="text1-2-3-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-9-7-1"
+         x="137.31201"
+         y="328.40286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.3;stroke-dasharray:none">#6</tspan></text>
+  </g>
 </svg>
