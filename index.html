@@ -20,7 +20,6 @@
   <script type="text/javascript">
     edges = ["in-to-1", "in-to-2", "1-to-2", "in-to-out", "1-to-out", "2-to-out"]
     ops = ["none", "skip", "1x1", "3x3", "avg"]
-    // TODO the name of edges are not in the fig
     var format = new Intl.NumberFormat("en-US", {
       minimumFractionDigits: 3
     });
@@ -201,7 +200,7 @@
 
               <!-- code Link. -->
               <span class="link-block">
-                <a href="TODO" class="external-link button is-normal is-rounded is-dark">
+                <a href="https://github.com/TT2408/nasrobbench201" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="fab fa-github"></i>
                   </span>
@@ -211,7 +210,7 @@
 
                 <!-- Dataset Link. -->
                 <span class="link-block">
-                  <a href="TODO"
+                  <a href="https://drive.google.com/drive/folders/1Hhv2R1EfpnQOAyClX09mj7rj1Zbbbj0G?usp=sharing"
                     class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
                       <i class="far fa-images"></i>
@@ -371,7 +370,7 @@
         <div class="content has-text-justified">
           <p>
             <div class="description">
-              You can change the operations in each edge and see the corresponding evaluation result in CIFAR-10.
+              You can change the operations in each edge and see the corresponding evaluation result.
             </div>
             <!-- <div class="cell"> -->
               <!-- <div class="columns is-centered has-text-centered"> -->
@@ -442,7 +441,7 @@
                   <tr><td><b>Clean</b></td><td id="acc-val_acc-cifar10">0.612</td><td id="acc-val_acc-cifar100">0.152</td><td id="acc-val_acc-imagenet">0.166</td></tr>
                   <tr><td><b>FGSM (e=3.0)</b></td><td id="acc-val_fgsm_3_acc-cifar10">0.202</td><td id="acc-val_fgsm_3_acc-cifar100">0.111</td><td id="acc-val_fgsm_3_acc-imagenet">0.034</td></tr>
                   <tr><td><b>FGSM (e=8.0)</b></td><td id="acc-val_fgsm_8_acc-cifar10">0.197</td><td id="acc-val_fgsm_8_acc-cifar100">0.114</td><td id="acc-val_fgsm_8_acc-imagenet">0.033</td></tr>
-                  <tr><td><b>PGD (e=3.0)</b></td><td id="acc-val_pgd_3_acc-cifar10">0.139</td><td id="acc-val_pgd_3-cifar100">0.109</td><td id="acc-val_pgd_3-imagenet">0.022</td></tr>
+                  <tr><td><b>PGD (e=3.0)</b></td><td id="acc-val_pgd_3_acc-cifar10">0.139</td><td id="acc-val_pgd_3_acc-cifar100">0.109</td><td id="acc-val_pgd_3_acc-imagenet">0.022</td></tr>
                   <tr><td><b>PGD (e=8.0)</b></td><td id="acc-val_pgd_8_acc-cifar10">0.377</td><td id="acc-val_pgd_8_acc-cifar100">0.111</td><td id="acc-val_pgd_8_acc-imagenet">0.038</td></tr>
                   <tr><td><b>AutoAttack(e=8.0)</b></td><td id="acc-autoattack-cifar10">0.208</td><td id="acc-autoattack-cifar100">0.054</td><td id="acc-autoattack-imagenet"></td></tr>
                 </tbody></table>
